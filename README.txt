@@ -1,0 +1,2 @@
+The object created is a small keychain accessory made out of hexagons. While it was another experimentation with the OpenSCAD program, 
+the item was created to test how strong the printed material could be on a small scale with thin shapes as support. 
